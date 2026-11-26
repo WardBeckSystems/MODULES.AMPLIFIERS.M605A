@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M605A/MANUALS/1987 - M605A - Audio DA.pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/ecaa8832acb4c5b8-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1442, 2000],
+  "mm": [311.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [18.7, 0.4, 311.3, 414.4],
+ "outlines": {
+  "line": {"rings": 12, "straight": {"n": 492, "mm": 2767.8}, "curved": {"n": 58, "mm": 91.7}},
+  "text": {"rings": 148, "straight": {"n": 1571, "mm": 2102.5}, "curved": {"n": 420, "mm": 681.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 19,
+  "lines": [
+   {"mm": [19.4, 407.8, 134.3, 416.2], "text": "WAAD-BECk BYBTEMB LTD:"},
+   {"mm": [135.4, 357.3, 168.8, 365.5], "text": "ADDENDUM"},
+   {"mm": [83.1, 343.9, 220.6, 352.6], "text": "M605A AUDLO_DLSIRLBUILON_AMPLIELER"},
+   {"mm": [34.8, 323.4, 73.8, 333.5], "text": "8-Ll6_PCB"},
+   {"mm": [36.1, 311.3, 64.8, 318.9], "text": "On some"},
+   {"mm": [67.4, 311.3, 89.0, 319.0], "text": "units"},
+   {"mm": [91.8, 311.3, 152.2, 319.5], "text": "U2 wil be T1"},
+   {"mm": [155.4, 310.9, 204.5, 319.5], "text": "TLO7ICP _ In"},
+   {"mm": [206.6, 311.1, 275.7, 319.7], "text": "this instance R5S"},
+   {"mm": [35.2, 304.4, 77.3, 313.0], "text": "and R56 wi"},
+   {"mm": [87.4, 304.9, 136.4, 313.0], "text": "be  1800 ohms"},
+   {"mm": [139.3, 304.9, 171.6, 312.5], "text": "1/4w 5%."}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 311 × 432 mm, 1442 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 19–311 mm across, 0–414 mm up",
+  "- **Outlines:** line 12 rings, 492 straight (2,768 mm) / 58 curved (91.7 mm); text 148 rings, 1,571 straight (2,102 mm) / 420 curved (681 mm)",
+  "- **Words (OCR):** 19 in 12 lines: WAAD-BECk BYBTEMB LTD: · ADDENDUM · M605A AUDLO_DLSIRLBUILON_AMPLIELER · 8-Ll6_PCB · On some · units · U2 wil be T1 · TLO7ICP _ In · this instance R5S · and R56 wi · be  1800 ohms · 1/4w 5%."
+ ]
+}

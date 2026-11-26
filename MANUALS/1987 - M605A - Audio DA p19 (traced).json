@@ -1,0 +1,96 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M605A/MANUALS/1987 - M605A - Audio DA.pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/ecaa8832acb4c5b8-p19.svg",
+ "sheet": {
+  "number": "605-06-006",
+  "title": "Audio Distribution Amplifier",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1304],
+  "mm": [431.8, 281.5],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.8, -0.1, 431.9, 281.5],
+ "outlines": {
+  "line": {"rings": 485, "straight": {"n": 7593, "mm": 11983.5}, "curved": {"n": 918, "mm": 963.5}},
+  "text": {"rings": 222, "straight": {"n": 1987, "mm": 2135.5}, "curved": {"n": 525, "mm": 636.5}},
+  "tb": {"rings": 19, "straight": {"n": 241, "mm": 345.2}, "curved": {"n": 47, "mm": 62.4}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [340.9, 59.6, 353.9, 65.5], "w": 13.0, "h": 5.9, "from": "ring", "in_title_block": true},
+  {"mm": [354.5, 59.4, 421.2, 65.5], "w": 66.7, "h": 6.1, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [327.1, 59.6, 340.0, 65.4], "w": 13.0, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [293.6, 26.6, 326.4, 33.0], "w": 32.8, "h": 6.5, "from": "ring", "words": ["ENG_"], "in_title_block": true},
+  {"mm": [293.4, 13.4, 326.2, 19.2], "w": 32.8, "h": 5.8, "from": "ring", "words": ["APP"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 33,
+  "lines": [
+   {"mm": [108.8, 261.9, 117.9, 267.4], "text": "Rs"},
+   {"mm": [116.4, 253.3, 127.2, 258.0], "text": "R1z"},
+   {"mm": [125.0, 244.0, 136.9, 249.5], "text": "R23"},
+   {"mm": [185.9, 240.3, 215.7, 245.8], "text": "PCB 8-116"},
+   {"mm": [138.4, 235.3, 149.2, 239.6], "text": "Rai"},
+   {"mm": [221.1, 228.9, 233.4, 233.7], "text": "c2b"},
+   {"mm": [224.8, 218.7, 233.4, 223.0], "text": "Tp"},
+   {"mm": [303.6, 206.2, 335.9, 212.3], "text": "PCB 8-117"},
+   {"mm": [336.6, 169.5, 351.7, 175.0], "text": "R2o1"},
+   {"mm": [350.6, 150.7, 365.1, 155.5], "text": "F2o1"},
+   {"mm": [76.6, 119.6, 111.2, 126.1], "text": "PCB 8-118"},
+   {"mm": [158.5, 108.6, 174.7, 114.1], "text": "Tzo1"},
+   {"mm": [216.8, 97.8, 230.1, 103.3], "text": "DS2"},
+   {"mm": [232.1, 86.6, 246.6, 93.1], "text": "Ds3"},
+   {"mm": [257.8, 75.1, 270.1, 79.9], "text": "Dsi"},
+   {"mm": [327.3, 59.8, 353.9, 65.3], "text": "Issu DATE"},
+   {"mm": [378.0, 59.8, 398.6, 65.3], "text": "REVISION"},
+   {"mm": [423.4, 59.8, 431.6, 64.6], "text": "APF"},
+   {"mm": [302.7, 44.5, 430.1, 53.1], "text": "WBS WAAD-BECK SYBTEMB"},
+   {"mm": [370.3, 30.4, 390.8, 37.4], "text": "M6oSA"},
+   {"mm": [293.8, 27.6, 303.6, 33.2], "text": "ENG_"},
+   {"mm": [337.2, 22.9, 396.2, 29.4], "text": "AUDIO DISTRIBUTION"},
+   {"mm": [399.4, 22.5, 425.3, 29.4], "text": "AMPLIFIER"},
+   {"mm": [350.8, 14.9, 411.3, 21.9], "text": "COMPONENT LAYOUT"},
+   {"mm": [294.5, 13.4, 303.6, 18.9], "text": "APP"},
+   {"mm": [302.5, 7.6, 317.2, 12.4], "text": "SCALE"},
+   {"mm": [414.7, 6.9, 428.3, 12.4], "text": "ISSUE"},
+   {"mm": [355.8, 2.4, 393.6, 9.3], "text": "605-06-006"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [285.8, 1.4, 431.8, 70.9],
+  "from": "title-block words (training set)",
+  "text": [
+   "Issu DATE",
+   "REVISION",
+   "APF",
+   "WBS WAAD-BECK SYBTEMB",
+   "M6oSA",
+   "ENG_",
+   "AUDIO DISTRIBUTION",
+   "AMPLIFIER",
+   "COMPONENT LAYOUT",
+   "APP",
+   "SCALE",
+   "ISSUE",
+   "605-06-006"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 605-06-006, size B (assumed) 432 × 282 mm, 2000 × 1304 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–432 mm across, 0–282 mm up",
+  "- **Outlines:** line 485 rings, 7,593 straight (11,984 mm) / 918 curved (964 mm); text 222 rings, 1,987 straight (2,136 mm) / 525 curved (636 mm); tb 19 rings, 241 straight (345 mm) / 47 curved (62.4 mm)",
+  "- **Closed boxes:** 5 (5 in the title block)",
+  "- **Words (OCR):** 33 in 28 lines: Rs · R1z · R23 · PCB 8-116 · Rai · c2b · Tp · PCB 8-117 · R2o1 · F2o1 · PCB 8-118 · Tzo1",
+  "- **Title block:** (286, 1)–(432, 71) mm: Issu DATE · REVISION · APF · WBS WAAD-BECK SYBTEMB · M6oSA · ENG_ · AUDIO DISTRIBUTION · AMPLIFIER · COMPONENT LAYOUT · APP · SCALE · ISSUE · 605-06-006"
+ ]
+}

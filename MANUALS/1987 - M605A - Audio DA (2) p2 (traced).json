@@ -1,0 +1,77 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M605A/MANUALS/1987 - M605A - Audio DA (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/00b492d0565c52c4-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1562, 2000],
+  "mm": [337.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.5, 4.1, 336.2, 431.8],
+ "outlines": {
+  "line": {"rings": 47, "straight": {"n": 874, "mm": 4153.5}, "curved": {"n": 151, "mm": 240.1}},
+  "text": {"rings": 115, "straight": {"n": 984, "mm": 1357.0}, "curved": {"n": 228, "mm": 357.6}},
+  "tb": {"rings": 73, "straight": {"n": 791, "mm": 1247.5}, "curved": {"n": 194, "mm": 327.0}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [4.7, 393.8, 10.1, 407.0], "w": 5.4, "h": 13.2, "from": "ring"},
+  {"mm": [4.7, 371.6, 10.4, 384.7], "w": 5.6, "h": 13.2, "from": "ring"},
+  {"mm": [4.7, 237.9, 9.9, 250.9], "w": 5.2, "h": 13.0, "from": "ring"},
+  {"mm": [4.5, 193.2, 10.1, 206.0], "w": 5.6, "h": 12.7, "from": "ring"},
+  {"mm": [6.0, 14.2, 11.9, 27.6], "w": 5.8, "h": 13.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 35,
+  "lines": [
+   {"mm": [44.5, 397.0, 273.8, 414.4], "text": "(WBS) 041 PROGAE88 AV ENue SCAR BOAOUGH ONTA RIO 3lI..(I"},
+   {"mm": [120.3, 408.1, 190.9, 415.2], "text": "WARD -BE CK"},
+   {"mm": [206.0, 408.1, 280.2, 415.2], "text": "YS TE MS TD"},
+   {"mm": [273.5, 402.7, 282.0, 407.2], "text": "llX."},
+   {"mm": [120.3, 397.0, 169.5, 401.6], "text": "FAKe \"'81.::J6.308!l"},
+   {"mm": [212.7, 397.0, 245.9, 401.6], "text": "TEU' PHONI!,"},
+   {"mm": [155.9, 250.9, 181.8, 258.1], "text": "M605A"},
+   {"mm": [98.9, 235.5, 238.6, 243.0], "text": "AUDIO DISTRIBUTION AMPLIFIER"},
+   {"mm": [217.4, 78.4, 266.4, 83.4], "text": "MA UAl. ISSUE"},
+   {"mm": [227.3, 66.1, 232.1, 71.3], "text": "ul"},
+   {"mm": [243.3, 66.1, 254.8, 71.3], "text": "1~81"},
+   {"mm": [288.2, 57.4, 309.2, 66.5], "text": "ps"},
+   {"mm": [276.6, 46.0, 298.6, 57.5], "text": "BS"},
+   {"mm": [254.1, 23.3, 272.9, 30.5], "text": "tp"},
+   {"mm": [247.0, 16.2, 267.9, 23.4], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [37.8, 69.8, 273.1, 423.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "(WBS) 041 PROGAE88 AV ENue SCAR BOAOUGH ONTA RIO 3lI..(I",
+   "WARD -BE CK",
+   "YS TE MS TD",
+   "FAKe \"'81.::J6.308!l",
+   "TEU' PHONI!,",
+   "M605A",
+   "AUDIO DISTRIBUTION AMPLIFIER",
+   "MA UAl. ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 337 × 432 mm, 1562 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–336 mm across, 4–432 mm up",
+  "- **Outlines:** line 47 rings, 874 straight (4,154 mm) / 151 curved (240 mm); text 115 rings, 984 straight (1,357 mm) / 228 curved (358 mm); tb 73 rings, 791 straight (1,248 mm) / 194 curved (327 mm)",
+  "- **Closed boxes:** 5",
+  "- **Words (OCR):** 35 in 15 lines: (WBS) 041 PROGAE88 AV ENue SCAR BOAOUGH ONTA RIO 3lI..(I · WARD -BE CK · YS TE MS TD · llX. · FAKe \"'81.::J6.308!l · TEU' PHONI!, · M605A · AUDIO DISTRIBUTION AMPLIFIER · MA UAl. ISSUE · ul · 1~81 · ps",
+  "- **Title block:** (38, 70)–(273, 424) mm: (WBS) 041 PROGAE88 AV ENue SCAR BOAOUGH ONTA RIO 3lI..(I · WARD -BE CK · YS TE MS TD · FAKe \"'81.::J6.308!l · TEU' PHONI!, · M605A · AUDIO DISTRIBUTION AMPLIFIER · MA UAl. ISSUE"
+ ]
+}

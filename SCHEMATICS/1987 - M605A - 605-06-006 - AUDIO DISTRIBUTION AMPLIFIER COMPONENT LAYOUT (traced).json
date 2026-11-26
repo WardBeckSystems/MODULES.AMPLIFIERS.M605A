@@ -1,0 +1,94 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M605A/SCHEMATICS/1987 - M605A - 605-06-006 - AUDIO DISTRIBUTION AMPLIFIER COMPONENT LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/a8cbae80d14bb519.svg",
+ "sheet": {
+  "number": "605-06-006",
+  "title": "Audio Distribution Amplifier Component Layout",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1303],
+  "mm": [431.8, 281.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.8, -0.1, 431.8, 281.3],
+ "outlines": {
+  "line": {"rings": 503, "straight": {"n": 7674, "mm": 12185.9}, "curved": {"n": 974, "mm": 969.6}},
+  "text": {"rings": 224, "straight": {"n": 2015, "mm": 2215.3}, "curved": {"n": 548, "mm": 672.9}},
+  "tb": {"rings": 14, "straight": {"n": 192, "mm": 293.5}, "curved": {"n": 24, "mm": 27.9}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [327.1, 59.6, 340.0, 65.4], "w": 13.0, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [340.6, 59.4, 353.9, 65.2], "w": 13.2, "h": 5.8, "from": "ring", "words": ["Issu |DATE"], "in_title_block": true},
+  {"mm": [354.5, 59.4, 421.2, 65.2], "w": 66.7, "h": 5.8, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [293.4, 26.6, 326.2, 33.0], "w": 32.8, "h": 6.5, "from": "ring", "words": ["ENG_"], "in_title_block": true},
+  {"mm": [293.4, 13.4, 326.2, 19.2], "w": 32.8, "h": 5.8, "from": "ring", "words": ["APP"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 33,
+  "lines": [
+   {"mm": [108.8, 261.7, 117.9, 267.2], "text": "Rs"},
+   {"mm": [116.4, 253.0, 127.2, 257.8], "text": "R1z"},
+   {"mm": [125.0, 243.8, 136.9, 249.3], "text": "R2s"},
+   {"mm": [185.9, 240.1, 215.7, 245.6], "text": "PCB 8-116"},
+   {"mm": [138.4, 235.1, 148.8, 239.4], "text": "R4i"},
+   {"mm": [221.1, 228.6, 233.0, 234.2], "text": "C2b"},
+   {"mm": [224.8, 218.5, 233.4, 222.8], "text": "Tp"},
+   {"mm": [303.1, 206.6, 335.5, 212.1], "text": "PCB 8-117"},
+   {"mm": [335.9, 169.5, 351.1, 175.0], "text": "R2o1"},
+   {"mm": [350.0, 150.5, 365.1, 155.3], "text": "F2o1"},
+   {"mm": [76.6, 119.4, 110.5, 125.9], "text": "PCB 8-118"},
+   {"mm": [158.5, 108.4, 174.7, 113.9], "text": "Tzo1"},
+   {"mm": [216.8, 97.6, 230.1, 103.1], "text": "DS2"},
+   {"mm": [232.1, 86.6, 246.6, 93.1], "text": "Ds3"},
+   {"mm": [257.8, 75.6, 266.9, 79.9], "text": "Ds"},
+   {"mm": [328.4, 59.8, 353.2, 65.3], "text": "Issu |DATE"},
+   {"mm": [378.0, 59.8, 398.1, 65.3], "text": "REVISION"},
+   {"mm": [423.4, 59.8, 431.6, 64.6], "text": "ApP"},
+   {"mm": [302.0, 44.5, 429.4, 53.1], "text": "WBS WARD-BECK SYSTEMB"},
+   {"mm": [370.3, 31.1, 390.8, 37.6], "text": "M6oSA"},
+   {"mm": [293.4, 27.4, 303.1, 32.9], "text": "ENG_"},
+   {"mm": [336.8, 22.9, 425.3, 29.4], "text": "AUDIO DISTRIBUT ION AMPLIFIER"},
+   {"mm": [293.6, 19.6, 323.9, 26.6], "text": "CKD Ryl"},
+   {"mm": [350.2, 14.9, 410.6, 21.9], "text": "COMPONENT LAYOUT"},
+   {"mm": [293.8, 14.0, 303.6, 18.8], "text": "APP"},
+   {"mm": [302.5, 7.6, 316.5, 13.1], "text": "SCALE"},
+   {"mm": [414.7, 7.6, 427.7, 12.4], "text": "ISSUE"},
+   {"mm": [355.2, 2.4, 392.9, 9.3], "text": "605-06-006"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [285.0, 1.9, 431.8, 70.9],
+  "from": "title-block words (training set)",
+  "text": [
+   "Issu |DATE",
+   "REVISION",
+   "ApP",
+   "WBS WARD-BECK SYSTEMB",
+   "M6oSA",
+   "ENG_",
+   "AUDIO DISTRIBUT ION AMPLIFIER",
+   "CKD Ryl",
+   "COMPONENT LAYOUT",
+   "APP",
+   "SCALE",
+   "ISSUE",
+   "605-06-006"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 605-06-006, size B (assumed) 432 × 281 mm, 2000 × 1303 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–432 mm across, 0–281 mm up",
+  "- **Outlines:** line 503 rings, 7,674 straight (12,186 mm) / 974 curved (970 mm); text 224 rings, 2,015 straight (2,215 mm) / 548 curved (673 mm); tb 14 rings, 192 straight (294 mm) / 24 curved (27.9 mm)",
+  "- **Closed boxes:** 5 (5 in the title block)",
+  "- **Words (OCR):** 33 in 28 lines: Rs · R1z · R2s · PCB 8-116 · R4i · C2b · Tp · PCB 8-117 · R2o1 · F2o1 · PCB 8-118 · Tzo1",
+  "- **Title block:** (285, 2)–(432, 71) mm: Issu |DATE · REVISION · ApP · WBS WARD-BECK SYSTEMB · M6oSA · ENG_ · AUDIO DISTRIBUT ION AMPLIFIER · CKD Ryl · COMPONENT LAYOUT · APP · SCALE · ISSUE · 605-06-006"
+ ]
+}

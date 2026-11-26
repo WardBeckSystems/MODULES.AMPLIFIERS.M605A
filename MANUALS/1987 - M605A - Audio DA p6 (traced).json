@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M605A/MANUALS/1987 - M605A - Audio DA.pdf",
+ "page": 6,
+ "version": 1,
+ "trace": "_traces/ecaa8832acb4c5b8-p6.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1442, 2000],
+  "mm": [311.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "6", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.9, 311.3, 423.5],
+ "outlines": {
+  "line": {"rings": 21, "straight": {"n": 447, "mm": 3076.0}, "curved": {"n": 61, "mm": 90.9}},
+  "text": {"rings": 180, "straight": {"n": 1492, "mm": 1774.8}, "curved": {"n": 363, "mm": 578.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [19.4, 417.8, 132.1, 424.7], "text": "WAAD-BecK systems LTD"},
+   {"mm": [130.6, 375.2, 186.8, 382.2], "text": "TECHNICAL DATA"},
+   {"mm": [92.8, 362.3, 185.0, 369.2], "text": "MGOSA AUDI0 distributION"},
+   {"mm": [187.8, 361.6, 223.9, 369.3], "text": "AMPLIFIER"},
+   {"mm": [32.6, 335.7, 72.8, 343.6], "text": "Dimensions:"},
+   {"mm": [150.1, 335.1, 210.3, 342.2], "text": "wide 3.4\" high"},
+   {"mm": [220.6, 335.1, 256.9, 342.2], "text": "13.7\" deep"},
+   {"mm": [133.2, 329.2, 157.2, 336.2], "text": "(42 mm"},
+   {"mm": [167.8, 329.2, 189.1, 335.7], "text": "83 mm"},
+   {"mm": [200.1, 328.6, 228.2, 335.7], "text": "336 mm)"},
+   {"mm": [32.8, 315.6, 58.7, 322.6], "text": "Weight:"},
+   {"mm": [133.9, 315.2, 164.5, 322.4], "text": "3 pounds"},
+   {"mm": [166.7, 315.2, 213.3, 322.9], "text": "(1.4 kg) net ."},
+   {"mm": [151.6, 24.8, 162.8, 31.8], "text": "1-2"}
+  ]
+ },
+ "dots": [{"c": [138.9, 337.6], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 311 × 432 mm, 1442 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–311 mm across, 1–424 mm up",
+  "- **Outlines:** line 21 rings, 447 straight (3,076 mm) / 61 curved (90.9 mm); text 180 rings, 1,492 straight (1,775 mm) / 363 curved (578 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 25 in 14 lines: WAAD-BecK systems LTD · TECHNICAL DATA · MGOSA AUDI0 distributION · AMPLIFIER · Dimensions: · wide 3.4\" high · 13.7\" deep · (42 mm · 83 mm · 336 mm) · Weight: · 3 pounds"
+ ]
+}

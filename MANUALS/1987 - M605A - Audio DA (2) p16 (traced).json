@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M605A/MANUALS/1987 - M605A - Audio DA (2).pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/00b492d0565c52c4-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1442, 2000],
+  "mm": [311.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [18.6, 0.4, 311.3, 414.5],
+ "outlines": {
+  "line": {"rings": 84, "straight": {"n": 1441, "mm": 4114.0}, "curved": {"n": 283, "mm": 469.6}},
+  "text": {"rings": 92, "straight": {"n": 728, "mm": 839.1}, "curved": {"n": 195, "mm": 308.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 40,
+  "lines": [
+   {"mm": [19.6, 410.2, 134.1, 415.7], "text": "WAFID-IiECK SYSTEMS l.TD."},
+   {"mm": [137.1, 358.6, 168.4, 365.3], "text": "APD ENDl.t1"},
+   {"mm": [84.6, 345.4, 220.4, 352.2], "text": "M§05A AUpl PISTRIBUTION AHPLIF EB"},
+   {"mm": [45.1, 325.8, 71.7, 332.5], "text": "116 PCB"},
+   {"mm": [36.5, 312.2, 99.7, 318.9], "text": "On some un ts lJ2"},
+   {"mm": [104.1, 312.2, 132.3, 318.9], "text": "wil be"},
+   {"mm": [145.1, 312.2, 184.4, 318.9], "text": "TI TL0 7I CP"},
+   {"mm": [198.2, 312.2, 276.4, 318.9], "text": "In th is Ins nce RS5"},
+   {"mm": [36.5, 305.5, 95.9, 312.2], "text": "and RS6 will be"},
+   {"mm": [100.6, 305.5, 156.7, 312.2], "text": "1800 ohms 4W"},
+   {"mm": [265.8, 53.3, 285.2, 61.7], "text": "ps"},
+   {"mm": [255.0, 42.7, 275.3, 53.3], "text": "BS"},
+   {"mm": [234.3, 21.8, 251.5, 28.5], "text": "tp"},
+   {"mm": [227.6, 15.1, 247.0, 21.8], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 311 × 432 mm, 1442 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 19–311 mm across, 0–414 mm up",
+  "- **Outlines:** line 84 rings, 1,441 straight (4,114 mm) / 283 curved (470 mm); text 92 rings, 728 straight (839 mm) / 195 curved (309 mm)",
+  "- **Words (OCR):** 40 in 14 lines: WAFID-IiECK SYSTEMS l.TD. · APD ENDl.t1 · M§05A AUpl PISTRIBUTION AHPLIF EB · 116 PCB · On some un ts lJ2 · wil be · TI TL0 7I CP · In th is Ins nce RS5 · and RS6 will be · 1800 ohms 4W · ps · BS"
+ ]
+}

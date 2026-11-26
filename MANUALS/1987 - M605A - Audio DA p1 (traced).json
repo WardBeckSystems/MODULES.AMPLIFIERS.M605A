@@ -1,0 +1,68 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M605A/MANUALS/1987 - M605A - Audio DA.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/ecaa8832acb4c5b8-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1562, 2000],
+  "mm": [337.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 337.2, 431.8],
+ "outlines": {
+  "line": {"rings": 74, "straight": {"n": 2285, "mm": 7841.8}, "curved": {"n": 199, "mm": 424.9}},
+  "text": {"rings": 50, "straight": {"n": 1016, "mm": 4135.0}, "curved": {"n": 107, "mm": 226.9}},
+  "tb": {"rings": 1, "straight": {"n": 40, "mm": 127.0}, "curved": {"n": 1, "mm": 3.7}}
+ },
+ "circles": [{"c": [83.4, 368.5], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0}],
+ "boxes": [
+  {"mm": [3.9, 170.1, 8.9, 182.9], "w": 5.0, "h": 12.8, "from": "ring"},
+  {"mm": [4.1, 147.9, 9.3, 160.6], "w": 5.2, "h": 12.7, "from": "ring"},
+  {"mm": [4.3, 125.4, 9.3, 138.2], "w": 5.0, "h": 12.7, "from": "ring"},
+  {"mm": [4.1, 81.0, 9.1, 93.5], "w": 5.0, "h": 12.5, "from": "ring"},
+  {"mm": [3.7, 58.5, 8.6, 71.2], "w": 5.0, "h": 12.7, "from": "ring"},
+  {"mm": [3.7, 36.3, 8.6, 49.0], "w": 5.0, "h": 12.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [198.4, 405.7, 291.2, 429.4], "text": "WBS"},
+   {"mm": [195.4, 365.1, 291.2, 390.3], "text": "WBS"},
+   {"mm": [195.0, 326.2, 290.2, 350.7], "text": "WBS"},
+   {"mm": [195.0, 286.9, 290.8, 310.9], "text": "WBS"},
+   {"mm": [194.7, 247.4, 290.4, 270.7], "text": "WBS"},
+   {"mm": [194.7, 207.0, 290.4, 231.3], "text": "WBS"},
+   {"mm": [195.0, 168.2, 290.2, 192.2], "text": "WBS"},
+   {"mm": [192.8, 129.1, 290.0, 152.4], "text": "WBS"},
+   {"mm": [233.4, 104.7, 253.9, 111.2], "text": "M6OSA"},
+   {"mm": [206.8, 98.5, 280.2, 106.1], "text": "AUDIO DIST RIBUTION"},
+   {"mm": [224.5, 92.8, 261.9, 99.3], "text": "MPLIFTER"},
+   {"mm": [195.0, 48.6, 290.2, 73.8], "text": "WBS"},
+   {"mm": [192.8, 9.9, 289.7, 33.7], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [186.1, 1.3, 298.1, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M6OSA", "AUDIO DIST RIBUTION", "MPLIFTER", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 337 × 432 mm, 1562 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–337 mm across, 0–432 mm up",
+  "- **Outlines:** line 74 rings, 2,285 straight (7,842 mm) / 199 curved (425 mm); text 50 rings, 1,016 straight (4,135 mm) / 107 curved (227 mm); tb 1 rings, 40 straight (127 mm) / 1 curved (3.7 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.9 @ (83.4, 368.5)",
+  "- **Closed boxes:** 6",
+  "- **Words (OCR):** 13 in 13 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M6OSA · AUDIO DIST RIBUTION · MPLIFTER · WBS",
+  "- **Title block:** (186, 1)–(298, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M6OSA · AUDIO DIST RIBUTION · MPLIFTER · WBS · WBS"
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M605A/MANUALS/1987 - M605A - Audio DA.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/ecaa8832acb4c5b8-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1562, 2000],
+  "mm": [337.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.5, 4.1, 336.2, 431.8],
+ "outlines": {
+  "line": {"rings": 29, "straight": {"n": 605, "mm": 3886.1}, "curved": {"n": 68, "mm": 112.6}},
+  "text": {"rings": 154, "straight": {"n": 1612, "mm": 2276.3}, "curved": {"n": 371, "mm": 610.8}},
+  "tb": {"rings": 48, "straight": {"n": 401, "mm": 624.3}, "curved": {"n": 105, "mm": 173.4}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [4.7, 416.0, 10.4, 429.2], "w": 5.7, "h": 13.2, "from": "ring"},
+  {"mm": [4.7, 393.7, 10.1, 407.0], "w": 5.4, "h": 13.3, "from": "ring"},
+  {"mm": [4.7, 371.6, 10.4, 384.5], "w": 5.6, "h": 13.0, "from": "ring"},
+  {"mm": [4.7, 349.3, 10.4, 362.3], "w": 5.7, "h": 13.0, "from": "ring"},
+  {"mm": [5.0, 326.9, 10.4, 340.0], "w": 5.4, "h": 13.2, "from": "ring"},
+  {"mm": [4.7, 237.9, 9.9, 250.7], "w": 5.2, "h": 12.7, "from": "ring"},
+  {"mm": [4.5, 193.0, 10.1, 206.0], "w": 5.6, "h": 13.0, "from": "ring"},
+  {"mm": [6.0, 14.2, 11.9, 27.6], "w": 5.8, "h": 13.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [196.0, 408.5, 281.3, 417.1], "text": "SYSTEMS LTD"},
+   {"mm": [50.7, 397.5, 169.3, 414.6], "text": "WBS FAX: 416/438-3885"},
+   {"mm": [119.4, 408.1, 191.3, 416.7], "text": "WARD-BECK"},
+   {"mm": [233.0, 402.9, 283.7, 408.4], "text": "ONTAAIO MTH 2*4"},
+   {"mm": [210.9, 397.5, 283.9, 402.7], "text": "TELEPHONE; 416/438-6550"},
+   {"mm": [154.4, 251.5, 182.4, 260.2], "text": "M6OSA"},
+   {"mm": [96.7, 235.1, 240.1, 245.2], "text": "AUDIO DISTRIBUTION AMPLIFIER"},
+   {"mm": [216.5, 78.2, 277.0, 85.1], "text": "MANUAL JSSUE #"},
+   {"mm": [215.7, 65.8, 255.4, 73.0], "text": "January [987"}
+  ]
+ },
+ "title_block": {
+  "mm": [44.0, 389.7, 261.6, 425.8],
+  "from": "title-block words (training set)",
+  "text": ["SYSTEMS LTD", "WBS FAX: 416/438-3885", "WARD-BECK", "ONTAAIO MTH 2*4", "TELEPHONE; 416/438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 337 × 432 mm, 1562 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–336 mm across, 4–432 mm up",
+  "- **Outlines:** line 29 rings, 605 straight (3,886 mm) / 68 curved (113 mm); text 154 rings, 1,612 straight (2,276 mm) / 371 curved (611 mm); tb 48 rings, 401 straight (624 mm) / 105 curved (173 mm)",
+  "- **Closed boxes:** 8",
+  "- **Words (OCR):** 11 in 9 lines: SYSTEMS LTD · WBS FAX: 416/438-3885 · WARD-BECK · ONTAAIO MTH 2*4 · TELEPHONE; 416/438-6550 · M6OSA · AUDIO DISTRIBUTION AMPLIFIER · MANUAL JSSUE # · January [987",
+  "- **Title block:** (44, 390)–(262, 426) mm: SYSTEMS LTD · WBS FAX: 416/438-3885 · WARD-BECK · ONTAAIO MTH 2*4 · TELEPHONE; 416/438-6550"
+ ]
+}

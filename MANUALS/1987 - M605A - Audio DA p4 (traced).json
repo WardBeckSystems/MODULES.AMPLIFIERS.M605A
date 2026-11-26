@@ -1,0 +1,159 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M605A/MANUALS/1987 - M605A - Audio DA.pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/ecaa8832acb4c5b8-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1456, 2000],
+  "mm": [314.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 10.8, 314.4, 424.9],
+ "outlines": {
+  "line": {"rings": 42, "straight": {"n": 432, "mm": 2730.7}, "curved": {"n": 69, "mm": 94.2}},
+  "text": {"rings": 1738, "straight": {"n": 16695, "mm": 17380.9}, "curved": {"n": 5136, "mm": 7637.9}},
+  "tb": {"rings": 27, "straight": {"n": 386, "mm": 669.1}, "curved": {"n": 72, "mm": 111.9}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [1.7, 412.4, 7.1, 424.9], "w": 5.4, "h": 12.5, "from": "ring"},
+  {"mm": [1.7, 323.2, 7.1, 335.9], "w": 5.4, "h": 12.7, "from": "ring"},
+  {"mm": [1.5, 301.0, 6.7, 313.7], "w": 5.2, "h": 12.7, "from": "ring"},
+  {"mm": [1.5, 278.5, 6.7, 291.2], "w": 5.2, "h": 12.7, "from": "ring"},
+  {"mm": [1.5, 256.5, 6.7, 269.0], "w": 5.2, "h": 12.5, "from": "ring"},
+  {"mm": [1.5, 234.0, 6.7, 246.8], "w": 5.2, "h": 12.7, "from": "ring"},
+  {"mm": [1.5, 211.8, 6.7, 224.3], "w": 5.2, "h": 12.5, "from": "ring"},
+  {"mm": [1.3, 189.3, 6.5, 201.9], "w": 5.2, "h": 12.5, "from": "ring"},
+  {"mm": [1.3, 167.1, 6.5, 179.8], "w": 5.2, "h": 12.7, "from": "ring"},
+  {"mm": [1.7, 144.7, 6.9, 157.4], "w": 5.2, "h": 12.7, "from": "ring"},
+  {"mm": [1.9, 122.2, 7.1, 134.9], "w": 5.2, "h": 12.7, "from": "ring"},
+  {"mm": [2.2, 100.0, 7.1, 112.7], "w": 5.0, "h": 12.7, "from": "ring"},
+  {"mm": [2.2, 55.2, 7.3, 68.0], "w": 5.2, "h": 12.8, "from": "ring"},
+  {"mm": [2.2, 33.0, 7.3, 45.8], "w": 5.2, "h": 12.7, "from": "ring"},
+  {"mm": [2.2, 10.8, 7.1, 23.5], "w": 5.0, "h": 12.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 42,
+  "lines": [
+   {"mm": [215.0, 401.6, 302.5, 410.2], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [136.7, 366.8, 189.6, 376.6], "text": "WARRANTY"},
+   {"mm": [95.6, 304.4, 301.4, 314.0], "text": "products are warranted against defective materials and workmanship for a period"},
+   {"mm": [23.1, 305.5, 93.3, 312.5], "text": "All Ward-Beck Systems Ltd"},
+   {"mm": [22.7, 298.4, 123.1, 306.5], "text": "of one year from the date of shipment_"},
+   {"mm": [22.5, 285.4, 73.4, 293.3], "text": "Ward-Beck Systems"},
+   {"mm": [72.5, 286.3, 83.6, 293.5], "text": "Ltd ."},
+   {
+    "mm": [86.4, 285.2, 301.0, 293.8],
+    "text": "will repair or replace , at its option and without charge , all said products or parts thereof"
+   },
+   {
+    "mm": [22.7, 278.5, 267.5, 287.4],
+    "text": "which upon factory inspection prove t0 be defective during the warranty period , provided that:"
+   },
+   {"mm": [43.2, 265.3, 234.7, 273.5], "text": "1) the original serial numbers are intact and have not been tampered with_"},
+   {"mm": [42.5, 252.6, 280.9, 260.8], "text": "2) the purchaser shall return any equipment or parts thereof t0 Ward-Beck Systems Ltd , only"},
+   {"mm": [49.2, 245.3, 280.9, 255.1], "text": "after obraining authorization and shipping instructions from the factory (Ward-Beck"},
+   {"mm": [88.7, 245.5, 103.6, 254.1], "text": "prior"},
+   {"mm": [49.7, 239.6, 81.4, 246.6], "text": "Systems Ltd_"},
+   {"mm": [84.2, 239.2, 281.1, 247.9], "text": "reserves the right to inspect or repair equipment on the purchaser'$ premises) , and"},
+   {
+    "mm": [42.5, 225.6, 280.9, 234.5],
+    "text": "3) the purchaser assumes the obligation for all expenses incurred in connection with the ship-"
+   },
+   {"mm": [49.7, 218.9, 229.1, 227.6], "text": "ping and return of such goods once authorization has been obtained"},
+   {"mm": [22.7, 206.0, 265.6, 214.8], "text": "This warranty does not cover items normally considered expendable_ such as fuses and lamps"},
+   {"mm": [275.7, 192.8, 300.3, 201.0], "text": "repair by"},
+   {
+    "mm": [22.7, 192.6, 275.1, 200.7],
+    "text": "This warranty does not cover damages caused by misuse , accident, neglect , unauthorized alteration ,"
+   },
+   {"mm": [22.5, 186.1, 184.2, 194.0], "text": "unauthorized personnel , or damage caused by act of God war"},
+   {"mm": [186.5, 187.4, 237.7, 193.9], "text": "or Civil insurrection"},
+   {"mm": [22.0, 173.2, 127.8, 180.8], "text": "In no event shall Ward-Beck Systems Ltd"},
+   {"mm": [130.4, 173.2, 300.3, 181.3], "text": "be liable for consequential damages_ Ward-Beck Systems Ltd , , shall"},
+   {"mm": [22.7, 166.2, 218.5, 174.6], "text": "have the right to final determination as t0 the applicability of this warranty"},
+   {
+    "mm": [22.5, 152.4, 299.0, 162.0],
+    "text": "Ward-Beck Systems Ltd . reserves the right; at any time and without notice, to make changes in its equipment,"
+   },
+   {
+    "mm": [22.0, 146.4, 296.2, 156.0],
+    "text": "components, specifications, Or designs, aS may be warranted by progress in state-of-the-art or technology."
+   },
+   {"mm": [22.7, 133.4, 84.2, 141.6], "text": "Ward-Beck Systems Ltd ."},
+   {"mm": [86.6, 132.6, 299.0, 142.2], "text": "reserves the right to make design changes, additions tO, and improvements in its pro"},
+   {"mm": [22.5, 126.9, 245.5, 135.3], "text": "ducts , without obligation to install such revisions in products previously manufactured_"},
+   {
+    "mm": [22.7, 113.6, 300.3, 122.2],
+    "text": "The warranty set forth herein is in lieu of all other warranties expressed or implied , including the warranties"
+   },
+   {"mm": [29.1, 106.7, 102.1, 116.3], "text": "merchantability and fitness ."},
+   {"mm": [22.7, 108.0, 29.6, 114.4], "text": "of"},
+   {"mm": [135.2, 55.3, 190.6, 71.6], "text": "WBS"},
+   {"mm": [130.8, 45.1, 194.5, 50.4], "text": "WARD-BecK systemS"},
+   {
+    "mm": [24.8, 27.9, 296.6, 36.7],
+    "text": "841 Progress Avenue, Scarborough, Ontario , Canada MIH 2X4 . Tel: (416) 438-6550.Fax: (416) 438-3865 ."
+   }
+  ]
+ },
+ "title_block": {
+  "mm": [15.8, 36.4, 308.8, 418.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTEMS",
+   "WARRANTY",
+   "products are warranted against defective materials and workmanship for a period",
+   "All Ward-Beck Systems Ltd",
+   "of one year from the date of shipment_",
+   "Ward-Beck Systems",
+   "Ltd .",
+   "will repair or replace , at its option and without charge , all said products or parts thereof",
+   "which upon factory inspection prove t0 be defective during the warranty period , provided that:",
+   "1) the original serial numbers are intact and have not been tampered with_",
+   "2) the purchaser shall return any equipment or parts thereof t0 Ward-Beck Systems Ltd , only",
+   "after obraining authorization and shipping instructions from the factory (Ward-Beck",
+   "prior",
+   "Systems Ltd_",
+   "reserves the right to inspect or repair equipment on the purchaser'$ premises) , and",
+   "3) the purchaser assumes the obligation for all expenses incurred in connection with the ship-",
+   "ping and return of such goods once authorization has been obtained",
+   "This warranty does not cover items normally considered expendable_ such as fuses and lamps",
+   "repair by",
+   "This warranty does not cover damages caused by misuse , accident, neglect , unauthorized alteration ,",
+   "unauthorized personnel , or damage caused by act of God war",
+   "or Civil insurrection",
+   "In no event shall Ward-Beck Systems Ltd",
+   "be liable for consequential damages_ Ward-Beck Systems Ltd , , shall",
+   "have the right to final determination as t0 the applicability of this warranty",
+   "Ward-Beck Systems Ltd . reserves the right; at any time and without notice, to make changes in its equipment,",
+   "components, specifications, Or designs, aS may be warranted by progress in state-of-the-art or technology.",
+   "Ward-Beck Systems Ltd .",
+   "reserves the right to make design changes, additions tO, and improvements in its pro",
+   "ducts , without obligation to install such revisions in products previously manufactured_",
+   "The warranty set forth herein is in lieu of all other warranties expressed or implied , including the warranties",
+   "merchantability and fitness .",
+   "of",
+   "WBS",
+   "WARD-BecK systemS"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 314 × 432 mm, 1456 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 11–425 mm up",
+  "- **Outlines:** line 42 rings, 432 straight (2,731 mm) / 69 curved (94.2 mm); text 1,738 rings, 16,695 straight (17,381 mm) / 5,136 curved (7,638 mm); tb 27 rings, 386 straight (669 mm) / 72 curved (112 mm)",
+  "- **Closed boxes:** 15",
+  "- **Words (OCR):** 42 in 36 lines: WARD-BECK SYSTEMS · WARRANTY · products are warranted against defective materials and workmanship for a period · All Ward-Beck Systems Ltd · of one year from the date of shipment_ · Ward-Beck Systems · Ltd . · will repair or replace , at its option and without charge , all said products or parts the",
+  "- **Title block:** (16, 36)–(309, 419) mm: WARD-BECK SYSTEMS · WARRANTY · products are warranted against defective materials and workmanship for a period · All Ward-Beck Systems Ltd · of one year from the date of shipment_ · Ward-Beck Systems "
+ ]
+}

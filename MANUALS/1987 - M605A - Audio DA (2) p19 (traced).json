@@ -1,0 +1,71 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M605A/MANUALS/1987 - M605A - Audio DA (2).pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/00b492d0565c52c4-p19.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1304],
+  "mm": [431.8, 281.5],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.8, 0.0, 431.8, 281.5],
+ "outlines": {
+  "line": {"rings": 430, "straight": {"n": 5567, "mm": 13344.9}, "curved": {"n": 953, "mm": 1559.5}},
+  "text": {"rings": 70, "straight": {"n": 459, "mm": 574.0}, "curved": {"n": 124, "mm": 204.2}}
+ },
+ "circles": [
+  {"c": [352.6, 26.2], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [389.0, 26.1], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [354.5, 59.4, 421.2, 65.5], "w": 66.7, "h": 6.1, "from": "ring"},
+  {"mm": [327.1, 59.6, 340.0, 65.4], "w": 13.0, "h": 5.8, "from": "ring"},
+  {"mm": [340.9, 59.6, 353.9, 65.4], "w": 13.0, "h": 5.8, "from": "ring"},
+  {"mm": [293.6, 26.6, 326.4, 33.0], "w": 32.8, "h": 6.5, "from": "ring"},
+  {"mm": [293.4, 13.4, 326.2, 19.2], "w": 32.8, "h": 5.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [109.0, 262.1, 117.2, 265.9], "text": "R9"},
+   {"mm": [117.0, 253.3, 126.5, 256.8], "text": "R1Z"},
+   {"mm": [125.7, 243.8, 136.4, 247.8], "text": "R2.~"},
+   {"mm": [186.8, 240.5, 214.8, 244.4], "text": "PCB 8-116"},
+   {"mm": [138.6, 235.1, 147.9, 238.7], "text": "R41"},
+   {"mm": [224.5, 218.3, 235.3, 221.9], "text": "'Pi"},
+   {"mm": [5.8, 198.2, 11.2, 202.0], "text": "PI"},
+   {"mm": [351.1, 150.7, 364.2, 154.5], "text": "F'Z01"},
+   {"mm": [77.5, 120.0, 110.3, 123.9], "text": "PCB 8-118"},
+   {"mm": [158.7, 105.4, 204.9, 121.7], "text": "T201~"},
+   {"mm": [351.1, 79.2, 364.2, 83.1], "text": "F'Z01"},
+   {"mm": [391.4, 47.3, 408.9, 55.0], "text": "ps"},
+   {"mm": [77.5, 48.4, 110.3, 52.2], "text": "PCB 8-118"},
+   {"mm": [158.7, 33.7, 204.9, 50.2], "text": "T201~"},
+   {"mm": [381.9, 37.8, 400.3, 47.4], "text": "BS"},
+   {"mm": [217.2, 26.6, 229.7, 30.2], "text": "DS2"},
+   {"mm": [362.9, 18.8, 378.5, 24.8], "text": "tp"},
+   {"mm": [233.0, 16.0, 245.7, 19.8], "text": "DS,3"},
+   {"mm": [356.9, 13.0, 374.6, 19.0], "text": "ht"},
+   {"mm": [257.4, 3.7, 268.8, 7.5], "text": "DS1"}
+  ]
+ },
+ "dots": [{"c": [389.0, 26.1], "r": 1.4, "lines": 0}, {"c": [352.6, 26.1], "r": 1.4, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 432 × 282 mm, 2000 × 1304 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–432 mm across, 0–282 mm up",
+  "- **Outlines:** line 430 rings, 5,567 straight (13,345 mm) / 953 curved (1,560 mm); text 70 rings, 459 straight (574 mm) / 124 curved (204 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.3 @ (352.6, 26.2), r 2.3 @ (389.0, 26.1)",
+  "- **Closed boxes:** 5",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 23 in 20 lines: R9 · R1Z · R2.~ · PCB 8-116 · R41 · 'Pi · PI · F'Z01 · PCB 8-118 · T201~ · F'Z01 · ps"
+ ]
+}

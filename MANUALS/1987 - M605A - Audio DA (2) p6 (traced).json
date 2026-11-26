@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M605A/MANUALS/1987 - M605A - Audio DA (2).pdf",
+ "page": 6,
+ "version": 1,
+ "trace": "_traces/00b492d0565c52c4-p6.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1442, 2000],
+  "mm": [311.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "6", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.9, 311.3, 423.6],
+ "outlines": {
+  "line": {"rings": 100, "straight": {"n": 1109, "mm": 3861.7}, "curved": {"n": 240, "mm": 370.7}},
+  "text": {"rings": 107, "straight": {"n": 792, "mm": 905.3}, "curved": {"n": 233, "mm": 386.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 29,
+  "lines": [
+   {"mm": [33.0, 419.9, 113.8, 425.4], "text": "Fl -BI!CK YSTEMS"},
+   {"mm": [117.7, 419.9, 131.9, 425.4], "text": "LTD"},
+   {"mm": [132.6, 376.5, 188.7, 382.5], "text": "TECHNICAL DATA"},
+   {"mm": [93.7, 363.1, 220.9, 369.1], "text": "M&Q5A AUDIO DISTRIBU TION AMPLIFIE"},
+   {"mm": [33.9, 337.2, 71.7, 342.8], "text": "Ol.....,. lon.'"},
+   {"mm": [135.2, 336.6, 174.2, 342.1], "text": "1.7\" ide\""},
+   {"mm": [196.7, 336.6, 202.3, 342.1], "text": "ni"},
+   {"mm": [223.7, 336.6, 229.7, 342.1], "text": "13"},
+   {"mm": [244.0, 336.8, 258.0, 341.4], "text": "deep"},
+   {"mm": [138.2, 329.7, 157.6, 335.2], "text": "42......,"},
+   {"mm": [170.1, 329.7, 176.4, 335.2], "text": "8J"},
+   {"mm": [202.7, 329.7, 212.7, 335.2], "text": "3J6"},
+   {"mm": [141.8, 316.5, 174.0, 322.0], "text": "pound. IT"},
+   {"mm": [186.1, 316.7, 196.7, 321.8], "text": "kg)"},
+   {"mm": [201.9, 316.5, 208.8, 322.0], "text": "ne"},
+   {"mm": [265.8, 53.3, 285.2, 61.7], "text": "ps"},
+   {"mm": [255.0, 42.7, 275.3, 53.3], "text": "BS"},
+   {"mm": [234.3, 21.8, 251.5, 28.5], "text": "tp"},
+   {"mm": [227.6, 15.1, 247.0, 21.8], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [176.0, 317.5], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 311 × 432 mm, 1442 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–311 mm across, 1–424 mm up",
+  "- **Outlines:** line 100 rings, 1,109 straight (3,862 mm) / 240 curved (371 mm); text 107 rings, 792 straight (905 mm) / 233 curved (386 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 29 in 19 lines: Fl -BI!CK YSTEMS · LTD · TECHNICAL DATA · M&Q5A AUDIO DISTRIBU TION AMPLIFIE · Ol.....,. lon.' · 1.7\" ide\" · ni · 13 · deep · 42......, · 8J · 3J6"
+ ]
+}
