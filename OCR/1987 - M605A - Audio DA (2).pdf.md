@@ -22,7 +22,7 @@ Wiki page: [M605A](../../../../PAGES/M605A.md)
 - **Closed boxes:** 12; named: \NBS; \NBS
 - **Words (OCR):** 16 in 15 lines: (\NElS) · l.!.J · \NBS · o:J · \NBS · \NBS · \NBS · \NBS · \NBS · \NBS · \NBS ps · BS
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p1 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p1%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p1 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -33,7 +33,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p1 (traced).
 - **Words (OCR):** 35 in 15 lines: (WBS) 041 PROGAE88 AV ENue SCAR BOAOUGH ONTA RIO 3lI..(I · WARD -BE CK · YS TE MS TD · llX. · FAKe "'81.::J6.308!l · TEU' PHONI!, · M605A · AUDIO DISTRIBUTION AMPLIFIER · MA UAl. ISSUE · ul · 1~81 · ps
 - **Title block:** (38, 70)–(273, 424) mm: (WBS) 041 PROGAE88 AV ENue SCAR BOAOUGH ONTA RIO 3lI..(I · WARD -BE CK · YS TE MS TD · FAKe "'81.::J6.308!l · TEU' PHONI!, · M605A · AUDIO DISTRIBUTION AMPLIFIER · MA UAl. ISSUE
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p2 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p2%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p2 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -43,7 +43,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p2 (traced).
 - **Closed boxes:** 4
 - **Words (OCR):** 78 in 46 lines: WAFlO -BE CK YSTEMS L.T · TABLE OF COHTENTS · H60SA AUDIO DISTRI BUTION AMPLIFIER · SECTI(W · PAGE · ,"ty · 1I, · Tecivll · O.t, · 1-1 to · Cfrc~l Descrip tion · 2-1
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p3 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p3%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p3 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -55,7 +55,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p3 (traced).
 - **Words (OCR):** 303 in 85 lines: WARD-BECK SYSTEMS · AUWard-Beck systems · products are warranted · against defective materlals and workmanship for period · of cne year from the date of shipment. · Ward-Beck Systems ltd.. · will repair or replace. at opeon and without charge. aU said products or pans thereof · its · which upon fact
 - **Title block:** (16, 118)–(309, 420) mm: WARD-BECK SYSTEMS · AUWard-Beck systems · products are warranted · against defective materlals and workmanship for period · of cne year from the date of shipment. · Ward-Beck Systems ltd.. · will repa
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p4 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p4%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p4 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -67,7 +67,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p4 (traced).
 - **Dots (junctions):** 3
 - **Words (OCR):** 244 in 95 lines: YSTEMS LTD. · TECHNICA DATA · M605A AUDIO DISTRIBUTION AMPLIF IER · Gai · He to · corui uously · riab le · ld gl · Gai nl · Freq en · Ae span · +0.2 d8
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p5 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p5%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p5 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -77,7 +77,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p5 (traced).
 - **Dots (junctions):** 1
 - **Words (OCR):** 29 in 19 lines: Fl -BI!CK YSTEMS · LTD · TECHNICAL DATA · M&Q5A AUDIO DISTRIBU TION AMPLIFIE · Ol.....,. lon.' · 1.7" ide" · ni · 13 · deep · 42......, · 8J · 3J6
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p6 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p6%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p6 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -89,7 +89,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p6 (traced).
 - **Dots (junctions):** 4
 - **Words (OCR):** 374 in 137 lines: Fl -lSIECK .Y8 TII! MB TD · CI RCUI DESCR IP ION · M60SA AUD IO DIS TRI BUT ION AMPLIF IER · The M605A audi · dis tri butIon · mpli iar · an · OPa ted .-<tu · lug- in · ni · gned to · ri ge
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p7 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p7%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p7 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -100,7 +100,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p7 (traced).
 - **Dots (junctions):** 4
 - **Words (OCR):** 333 in 152 lines: -Bl!!:CK YSTEM LT · CI RCUI DESCRI · ION · M60SA AUDI DIS TRI BUT ION AMPLIF IER · Th DIRECT OU lpu may · be llll zed 10 ex pand he ...umbel'" · Iso la led · OU IPu ts · add ionat fou 10 · IoU,. · ight by ....an · lern
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p8 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p8%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p8 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -112,7 +112,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p8 (traced).
 - **Dots (junctions):** 2
 - **Words (OCR):** 123 in 52 lines: CI( · YSTEM LTD · CIRCUIT DESCRIP TION · M60 · AUDIO DISTRIBUTIO ...MPLIFI ER · indic~lor clrcull" "re · p~c1<"ged ep · three LED · on · prlrned c~rd · Iype · 17
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p9 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p9%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p9 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -122,7 +122,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p9 (traced).
 - **Words (OCR):** 283 in 135 lines: WARD-BECK SYBTems LTD; · INSTALLATION · M6oSA AUDi0 · DISTRIBUTION AMPLIFIER · The M6O5A plugs directly into the WBS MF6 · mounting frame, which · may · be · installed in · standard · EIA 19 inch · equipment rack.
 - **Title block:** (14, 280)–(184, 427) mm: WARD-BECK SYBTems LTD; · INSTALLATION · M6oSA AUDi0 · DISTRIBUTION AMPLIFIER · The M6O5A plugs directly into the WBS MF6 · may · be · installed in · standard · EIA 19 inch · frame wili · accommodate ·
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p10 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p10%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p10 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -136,7 +136,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p10 (traced)
 - **Title block:** (212, 284)–(236, 314) mm: MOL · WBS 10-036 · WBS
 - **Wiring (first pass):** 8 connected wire groups from 184 runs; labelled ends: 131 mm → PART, M",I; 130 mm → ".,605A, AMPLIFIE; 103 mm → NUMBE; 38 mm → PARTS, IO, DISTRIBU, LIST; 36 mm → M",I, F201, FRAME, us
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p11 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p11%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p11 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -146,7 +146,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p11 (traced)
 - **Circles and arcs:** 5 circles, 0 arcs; largest r 2.6 @ (111.1, 414.4), r 1.8 @ (85.6, 47.4), r 1.7 @ (67.1, 133.4), r 1.7 @ (181.4, 73.6)
 - **Words (OCR):** 118 in 74 lines: Ck YSTEM LTD · PAR TS · IS · M60 5A AUDI · DiST BU IO AMPLIFIER · PART · DESCR PTIO · .FG · MF PAR NUMBER · C29 · p"ci IOr- · 470 uF 40
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p12 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p12%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p12 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -156,7 +156,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p12 (traced)
 - **Closed boxes:** 1
 - **Words (OCR):** 65 in 42 lines: CK YSTEMS LT · PARTS LIST · M60SA AUD IO DI STR BU TION AMUF 1ER · PAR · DESCRI PT IO · MF · PART NUM8ER · OJ · Re" tor · Ph tll · 36' · OJ
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p13 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p13%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p13 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -165,7 +165,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p13 (traced)
 - **Outlines:** line 125 rings, 1,155 straight (3,841 mm) / 222 curved (341 mm); text 619 rings, 5,012 straight (5,718 mm) / 1,439 curved (2,263 mm)
 - **Words (OCR):** 100 in 85 lines: WAAD-BeCk systems LTD · CT . BMateyb 73s ORAV · PARTS LIST · MGOSA AUDi0 distribution · AMPLIFIER · PART DESCR IPTION · MFG · MFG PART NUMBER · RL6 · Resistor · 1/4w · 59
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p14 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p14%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p14 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -176,7 +176,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p14 (traced)
 - **Closed boxes:** 1
 - **Words (OCR):** 114 in 67 lines: Fl · CI< YSTEMS LTD · PART LI ST · M60SA AUDIO DISTRIBUTION AMPLIFIER · DESCRIPTION · PART NUMBER · RIOt · Re · or JW 5S · Da le · CW- 28 · Rl02
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p15 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p15%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p15 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -185,7 +185,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p15 (traced)
 - **Outlines:** line 84 rings, 1,441 straight (4,114 mm) / 283 curved (470 mm); text 92 rings, 728 straight (839 mm) / 195 curved (309 mm)
 - **Words (OCR):** 40 in 14 lines: WAFID-IiECK SYSTEMS l.TD. · APD ENDl.t1 · M§05A AUpl PISTRIBUTION AHPLIF EB · 116 PCB · On some un ts lJ2 · wil be · TI TL0 7I CP · In th is Ins nce RS5 · and RS6 will be · 1800 ohms 4W · ps · BS
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p16 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p16%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p16 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -199,7 +199,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p16 (traced)
 - **Title block:** (242, 2)–(432, 90) mm: i~loATEI REVISION APP. · (VVE3@ WARe-BECK SYSTEMS · ps · BS · ORN.Vl fJCE · M605A · ENG. · AUDIO DISTRIBUTION AMPLIFIER · CKO .cK .(,lu..r · tp · APP. · FUNCTIONAL DIAGRAM · ht · SCALE · ISSUE · 605-0
 - **Wiring (first pass):** 57 connected wire groups from 168 runs; labelled ends: 209 mm → OUT; 109 mm → 6/+18; 13 mm → i~loATEI, (VVE3@; 13 mm → i~loATEI; 13 mm → i~loATEI
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p17 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p17%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p17 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -211,7 +211,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p17 (traced)
 - **Dots (junctions):** 3
 - **Words (OCR):** 214 in 199 lines: +32v · 4~7 · CS · Rll · 1'.2 · CZ · Rc;. · "20 · 2N4 · 07 · f---l · l..M2Cl
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p18 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p18%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p18 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -223,7 +223,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p18 (traced)
 - **Dots (junctions):** 2
 - **Words (OCR):** 23 in 20 lines: R9 · R1Z · R2.~ · PCB 8-116 · R41 · 'Pi · PI · F'Z01 · PCB 8-118 · T201~ · F'Z01 · ps
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p19 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p19%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p19 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -235,7 +235,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p19 (traced)
 - **Dots (junctions):** 1
 - **Words (OCR):** 47 in 38 lines: OUTLINE OF · I-I Jl-T · II'-lK · FORQ4.QS,Q~<QIO · L.F · OFF seT · TPI · IR41 50K · C2~ · 4-70140 · IgJ · U4
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p20 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p20%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p20 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -247,7 +247,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p20 (traced)
 - **Words (OCR):** 94 in 75 lines: OT · ANS S"T · 10 · \-..lD · I0 · N3 · IN · cc · --RIal IK3"" · 8-117 · IK 3w · 02
 - **Title block:** (141, 3)–(376, 112) mm: Ig~ · ISSUE DATE · REVISION · APP. · (VVE3S] WARD-BECK SYSTEMS · ca · ps · BS · DRN · GEB · 8-117 · ENG.GEB 1{79 · CKD.'?~ · INDICATOR · DRIVER · tp LAYOUT · COMPONENT · APP. · ht · SCALE · ISSUE · 8-
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p21 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p21%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p21 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -258,7 +258,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p21 (traced)
 - **Words (OCR):** 47 in 37 lines: 0T · LL · ESIS TO RS · 300~ · -R20 · 2:Jr.. · R203- · -R207 · -R204 · -R208- · R2oS · -R209-
 - **Title block:** (40, 1)–(262, 105) mm: ISSUE DATE · REVISION · APP. · (VVE3S) WARe-BECK SYSTEMS · DRN GEB · 8-118 · ps · ENG. GEB · 79 · BS · CKD. · ISOLATION NETWORK · COMPONENT LAYOUT · APP. · tp · ht · SCALE · ISSUE · 8-118-06-001
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p22 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p22%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p22 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p22%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -269,7 +269,7 @@ Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p22 (traced)
 - **Words (OCR):** 164 in 129 lines: LOl>.O · CONNEC.TO& · W\RI~Go of MUL"TI PLE · Y~TEM · GoOO.!\- · Ol · RE · VIEW · U\..l\T'S · ITt\ It-.! MOUNTING FRfll.VlE · \R\N~ · ou
 - **Title block:** (349, 0)–(432, 34) mm: IS · SUE DATE · EVISION · Il" · (\N'I3S] WARD-BECK SYSTEMS · ps · BS · ORN.GEB · ENG.GEB · 2/79 · tp · M60SA · Q(D. II · 'eI.l.c- · AUDIO OISTRIBUTtON · ht · AMPURER · APP. · SVSTfM WIRING .SCHEM At ·
 
-Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p23 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20(2)%20p23%20(traced).json) (the CAD file: `1987 - M605A - Audio DA (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - Audio DA (2) p23 (traced).json](../MANUALS/1987%20-%20M605A%20-%20Audio%20DA%20%282%29%20p23%20%28traced%29.json) (the CAD file: `1987 - M605A - Audio DA (2) p23 (traced).dxf`).
 
 ## Full text
 

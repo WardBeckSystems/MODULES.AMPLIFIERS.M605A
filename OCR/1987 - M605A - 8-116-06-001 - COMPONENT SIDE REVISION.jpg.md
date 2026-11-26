@@ -21,7 +21,7 @@ Wiki page: [M605A](../../../../PAGES/M605A.md)
 - **Words (OCR):** 163 in 136 lines: OUTLINE OF · HEAT · sink FOR Q4,05,0s4qi0_ · Hf · LF · OfF set Off · set · 2n3569 · Tp · R9 z0k · IRiz Sk · R23 Sok
 - **Title block:** (282, 2)–(432, 70) mm: 2/80 · 3670 · PM · IssU |DATE · REVISION · APP · WBS WARD-BECK SYBTEMS · DRN: GEB · 8-116 · ENG.GEB 2/79 · DA_ · AMPLIFIER · CKD Kel · COMPONENT LAYOUT · APP · SCALE · ISSUE · 2:1 · 8-116-06-001
 
-Every curve, box, word and wire group: [1987 - M605A - 8-116-06-001 - COMPONENT SIDE REVISION (traced).json](../SCHEMATICS/1987%20-%20M605A%20-%208-116-06-001%20-%20COMPONENT%20SIDE%20REVISION%20(traced).json) (the CAD file: `1987 - M605A - 8-116-06-001 - COMPONENT SIDE REVISION (traced).dxf`).
+Every curve, box, word and wire group: [1987 - M605A - 8-116-06-001 - COMPONENT SIDE REVISION (traced).json](../SCHEMATICS/1987%20-%20M605A%20-%208-116-06-001%20-%20COMPONENT%20SIDE%20REVISION%20%28traced%29.json) (the CAD file: `1987 - M605A - 8-116-06-001 - COMPONENT SIDE REVISION (traced).dxf`).
 
 ## Full text
 
