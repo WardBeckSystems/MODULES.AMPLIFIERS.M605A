@@ -13,6 +13,50 @@ Ward-Beck Systems M605A, 1987|20. Wiki page: [M605A on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 33 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [7 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1987 - M605A - Audio DA.pdf](MANUALS/1987%20-%20M605A%20-%20Audio%20DA.pdf) page 5 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | +18 to -6 dB continuously variable (Bridging Gain) |
+| **Frequency response** | ±0.2 dB from 20 Hz to 20 kHz. |
+| **Noise** | 3t maximum gain: at unity gain: 72 dB below +8 dBm. 85 dB below +8 dBm (20 Hz to 20 kHz) |
+| **Harmonic distortion** | Less than 0.1% THD from 20 Hz to 20 kHz up to +24 dBm output level with isolated outputs simultaneously driven |
+| **Input level** | -10 dBm to +14 dBm nominal for +8 dBm output, +24 dBm maximum at unity gain. |
+| **Input impedance** | 30,000 ohms or greater, balanced |
+| **Source impedance** | 600 ohms or less, balanced. |
+| **Common mode rejection** | 65 dB or greater. |
+| **Output level** | +8 dBm nominal +24 dBm maximum at each output, Up to 8 outputs maximum. |
+| **Output impedance** | 600 ohms, resistive at each output,actively balanced |
+| **Load impedance** | 600 ohms balanced for each isolated output. Total minimum load impedance at DIRECT output not to be less than 150 ohms |
+| **Output isolation** | 60 dB or greater ((30 Hz to 15 kHz) |
+| **Phasing** | The low terminal number of the input pair and the low terminal number of the output pair are in phase. |
+| **Power requirements** | 115 volts ac +10%, 60 Hz, 20 VA. |
+| **Ambient temperature** | to 60 degrees Celsius. |
+
+## Circuit description
+
+From [1987 - M605A - Audio DA.pdf](MANUALS/1987%20-%20M605A%20-%20Audio%20DA.pdf) pages 7-10 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The MGo5A audio distribution amplifier is an ac operated, modular plug-in unit designed to bridge across single audio source and provide multiple of mutually isolated outputs at standard level for distribution through an audio system. Input The audio input appears 2(Pins and and enters the 8-116 amplifier card at pins of the module connector and 2.
+
+An overload protection circuit consisting of R2, R3 and CRI through CR4 prevents excessive input levels or voltage transients from potentially damaging the amplifier. The audio signal is coupled through ci to C4 to the preamplifier section, consisting of u1 and U2. R12 adjusts the gain difference between uI and u2 to optimize the longitudinal balance at low frequencies, while R9 serves the same purpose for high frequencies_ The gain of the M6OSA is determined by potentiometer R201 which controls the feedback around u2. The overall amplifier gain is continuously adjustable from +18 to -6 dB. QuLPUt The preamplifier output signal is coupled through c9 to the lower half of the output amplifier, comprised of u3, 01, 02, 03, 04 and 05. The second Or upper half of the output amplifier consists of U4, 06, 07, 08, 09 and 010. The actively balanced Output appears at pins 18 and 19 of the amplifier card 8-116 Controls R23 and Ri adjust the output offset voltage to +/ -0.5 mV volts The amplifier output originating from pins 18 and 19 of the amplifier card 8-116 is connected to the DIRECT output at pins 6 and 14 of the module connector as weli as to resistive network providing four mutually isolated 600 ohm outputs. This network is accommodated on two printed boards, type 8-118, Located at the module connector
+
+The DIRECT output maybe utilized to expand the number of isolated outputs by an additional four to total of eight, by means of an external splitter network. The minimum total load impedance that can be driven by the DIRECT output is 150 ohms at maximum output capability of Tour watts. Indica torg Three LED indicators are provided at Tne front of the unit. DSI (yellow) monitors the + -32 volts supply voltage and serves as &quot;power on&quot; indicator DS3 (green is known a5 the &quot;Normal&quot; indicator_ Tt wili Mluminate whenever the nominal program output evel reaches +8 vu under program conditions. Under steady state tone conditions DS3 wiii not Muminate until the output reaches level of to dB above +8 dBm. DS3 is operated by one half of comparator uioi via the collector of 0103. The inputs of the comparator consist of Fixed reference voltage applied to Pin and dc voltage derived from the averaged audio signal via CR10L, CR1OS, R11S, RILL and Cio2, and applied to pin 6 0S2 (red) is an &quot;Overload&quot; indicator which wili operate when the average program output level reaches +18 vu. Under steady state tone conditions DS2 wili not illuminate until the output reaches level of +22 to +23 dBm. Furthermore, 45 0S2 is switched on, 0103 will be cut off, disabling DS3. Ds2 is driven by the second half of comparator uioi Again, fixed reference voltage is applied [O pin 3, while pin 2 is supplied with peak-detected audio signal voltage derived from CR102, CR103, RI13 and cioi 0101 and 0102 form precision current source, feeding voltage divider R1OZ/R108, which in turn provides the two comparator reference voltages.
+
+ciRcuit DESCRIPTION MGO5A AUdiO DISTRIBUTION AMPLIFIER The three LED indicator circuits are packaged separately on printed card, type 8-117 Power_Supely 115 voi [5, 60 Hz power is applied to the unit via module connector pins and 16 U is connected [0 the power transformer T201 through fuse F201 Bridge rectifier CRS with filter components R55, R66 and C28 through C3i establish nominal supply voltages of +/ = 32 and +7 -18 volts 25 required Test point Tpi and jumper connector JI are provided to measure the positive supply current during initial factory tesi. The dc current at this point Is nominally 50 MA with 115 volts ac input and under quiescent conditions.
+
+</details>
+
+<!-- /module data -->
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._

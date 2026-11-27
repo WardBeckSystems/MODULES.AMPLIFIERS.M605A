@@ -1,0 +1,263 @@
+{
+ "module": "M605A",
+ "title": "M6OSA AUD to disTRibuTiON AMPLIFIER",
+ "source": {
+  "file": "MANUALS/1987 - M605A - Audio DA.pdf",
+  "page": 5
+ },
+ "ocr_quality": 0.99,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "+18 to -6 dB continuously variable (Bridging Gain)",
+   "quantities": [
+    {
+     "from": 18,
+     "to": -6,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±0.2 dB from 20 Hz to 20 kHz.",
+   "quantities": [
+    {
+     "value": 0.2,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "3t maximum gain: at unity gain: 72 dB below +8 dBm. 85 dB below +8 dBm (20 Hz to 20 kHz)",
+   "quantities": [
+    {
+     "value": 72,
+     "unit": "dB"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 85,
+     "unit": "dB"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.1% THD from 20 Hz to 20 kHz up to +24 dBm output level with isolated outputs simultaneously driven",
+   "quantities": [
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "-10 dBm to +14 dBm nominal for +8 dBm output, +24 dBm maximum at unity gain.",
+   "quantities": [
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 14,
+     "unit": "dBm"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "30,000 ohms or greater, balanced",
+   "quantities": [
+    {
+     "value": 30000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms or less, balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Common mode rejection",
+   "key": "common_mode_rejection",
+   "text": "65 dB or greater.",
+   "quantities": [
+    {
+     "value": 65,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "+8 dBm nominal +24 dBm maximum at each output, Up to 8 outputs maximum.",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "600 ohms, resistive at each output,actively balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms balanced for each isolated output. Total minimum load impedance at DIRECT output not to be less than 150 ohms",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output isolation",
+   "key": "output_isolation",
+   "text": "60 dB or greater ((30 Hz to 15 kHz)",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "dB"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 15,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "The low terminal number of the input pair and the low terminal number of the output pair are in phase."
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "115 volts ac +10%, 60 Hz, 20 VA.",
+   "quantities": [
+    {
+     "value": 115,
+     "unit": "volts ac"
+    },
+    {
+     "value": 10,
+     "unit": "%"
+    },
+    {
+     "value": 60,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "VA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 60 degrees Celsius.",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/19xx - M605A - DOC - US Sales Brochure pg 15.jpg",
+   "page": 1
+  },
+  {
+   "file": "MANUALS/19xx - M605A - DOC - US Sales Brochure pg 16.jpg",
+   "page": 1
+  }
+ ]
+}
