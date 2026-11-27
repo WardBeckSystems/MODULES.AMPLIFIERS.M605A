@@ -1,16 +1,16 @@
-# M605A · Amplifiers
+# M605A Audio Distribution Amplifier · Amplifiers
 
 Ward-Beck Systems M605A, 1987|20. Wiki page: [M605A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M605A.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 165 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 25 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 166 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 33 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -97,6 +97,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1987 - M605A - Audio DA p18.kicad_sch](KICAD/1987%20-%20M605A%20-%20Audio%20DA%20p18.kicad_sch)
 - [1987 - M605A - Audio DA p23.kicad_sch](KICAD/1987%20-%20M605A%20-%20Audio%20DA%20p23.kicad_sch)
 - [M605A.kicad_sym](KICAD/M605A.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
