@@ -1,5 +1,5 @@
 # 1987 - M605A - Audio DA (2).pdf
-Wiki page: [M605A](../../../../PAGES/M605A.md)
+Wiki page: [M605A](../)
 
 
 - **Year:** 1987 (module estimate (labelled))

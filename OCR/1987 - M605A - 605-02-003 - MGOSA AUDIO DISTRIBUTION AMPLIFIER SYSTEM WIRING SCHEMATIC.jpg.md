@@ -1,5 +1,5 @@
 # 1987 - M605A - 605-02-003 - MGOSA AUDIO DISTRIBUTION AMPLIFIER SYSTEM WIRING SCHEMATIC.jpg
-Wiki page: [M605A](../../../../PAGES/M605A.md)
+Wiki page: [M605A](../)
 
 
 - **Year:** 1987 (module estimate (labelled))

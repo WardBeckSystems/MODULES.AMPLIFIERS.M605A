@@ -1,5 +1,5 @@
 # 1987 - M605A - 8-118-06-001 - RIGHT HAND ASSEMBLY LEFT HAND ASSEMELY.jpg
-Wiki page: [M605A](../../../../PAGES/M605A.md)
+Wiki page: [M605A](../)
 
 
 - **Year:** 1987 (module estimate (labelled))

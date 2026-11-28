@@ -1,6 +1,6 @@
 # M605A Audio Distribution Amplifier · Amplifiers
 
-Ward-Beck Systems M605A, 1987|20. Wiki page: [M605A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M605A.html)
+Ward-Beck Systems M605A, 1987|20. Wiki page: [M605A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M605A-Audio-Distribution-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
