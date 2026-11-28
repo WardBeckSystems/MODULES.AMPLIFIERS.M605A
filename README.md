@@ -4,13 +4,11 @@ Ward-Beck Systems M605A, 1987|20. Wiki page: [M605A on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 25 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 166 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 165 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 33 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -81,8 +79,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUGFSMlNuS081RzQ/view?resourcekey=0-fMd5nhemzSnZzVJ2Tds7wA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUGFSMlNuS081RzQ&resourcekey=0-fMd5nhemzSnZzVJ2Tds7wA" width="240" alt="19xx - M605A - DOC - US Sales Brochure pg 17.jpg"></a><br><sub>19xx - M605A - DOC - US Sales Brochure pg 17</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRjF4dVBEcE03LTg/view?resourcekey=0-BP3NgkjnnHILFIgy4dm2VA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRjF4dVBEcE03LTg&resourcekey=0-BP3NgkjnnHILFIgy4dm2VA" width="240" alt="19xx - M605A - DOC - US Sales Brochure pg 19.jpg"></a><br><sub>19xx - M605A - DOC - US Sales Brochure pg 19</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYnhYVnVRNENWOVU/view?resourcekey=0-8EiKk3JSCxcU78yn15vRfQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYnhYVnVRNENWOVU&resourcekey=0-8EiKk3JSCxcU78yn15vRfQ" width="240" alt="19xx - M605A - DOC - US Sales Brochure pg 20.jpg"></a><br><sub>19xx - M605A - DOC - US Sales Brochure pg 20</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M605A - 003.jpg`, `M605A - 017.jpg`, `M605A - 019.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -97,7 +93,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1987 - M605A - Audio DA p18.kicad_sch](KICAD/1987%20-%20M605A%20-%20Audio%20DA%20p18.kicad_sch)
 - [1987 - M605A - Audio DA p23.kicad_sch](KICAD/1987%20-%20M605A%20-%20Audio%20DA%20p23.kicad_sch)
 - [M605A.kicad_sym](KICAD/M605A.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
